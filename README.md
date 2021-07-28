@@ -6,5 +6,6 @@ Tema del proyecto: JUEGO WEB COMO APOYO AL APRENDIZAJE DE OPERACIONES MATEMÁTIC
 
 
 AUTOR: Antonio José Terán Cevallos
+
 TUTOR: MG. Renato M. Toasa
 
